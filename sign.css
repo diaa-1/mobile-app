@@ -11,6 +11,7 @@ body{
 }
 .main{
     padding-top:80px ;
+    height:100vh;
 }
 .main h2{
     margin-left: 35px;
@@ -52,7 +53,7 @@ h2,p,::placeholder,button{
 .btn{
     display: flex;
     justify-content: center;
-    height: 300px;
+   margin-button:50px
 }
 .btn button{
     width: 130px;
