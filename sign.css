@@ -64,6 +64,7 @@ h2,p,::placeholder,button{
     margin-inline:20px ;
 }
 .text{
+     font-size: 10px;
        position:fixed;
     bottom: 50px;
     right: 15%;
