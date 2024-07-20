@@ -53,7 +53,7 @@ h2,p,::placeholder,button{
 .btn{
     display: flex;
     justify-content: center;
-   margin-button:50px
+
 }
 .btn button{
     width: 130px;
@@ -64,6 +64,9 @@ h2,p,::placeholder,button{
     margin-inline:20px ;
 }
 .text{
+       position:fixed;
+    bottom: 50px;
+    right: 15%;
     text-align: center;
 }
 i{
