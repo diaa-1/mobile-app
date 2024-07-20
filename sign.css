@@ -8,10 +8,11 @@ p,h2, button,::placeholder{
 }
 body{
     background-color: #6867b5;
+        height: 100vh;
 }
 .main{
     padding-top:80px ;
-    height:100vh;
+   
 }
 .main h2{
     margin-left: 35px;
@@ -64,11 +65,9 @@ h2,p,::placeholder,button{
     margin-inline:20px ;
 }
 .text{
-     font-size: 14px;
-       position:fixed;
-    bottom: 50px;
-    right: 20%;
+     font-size: 11px;
     text-align: center;
+    margin-top:50px;
 }
 i{
     color: #c6caeb;
